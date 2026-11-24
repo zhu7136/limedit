@@ -1,0 +1,8 @@
+.flux_deps/
+outputs/
+logs/
+__pycache__/
+*.pyc
+wandb/
+build/
+*.egg-info/
